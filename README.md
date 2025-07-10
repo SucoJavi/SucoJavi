@@ -1,5 +1,20 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Javier
 
+Apasionado de la tecnología y disfrutando de una transición laboral a Data Science 
+
+🛠 **Tecnologías y herramientas Lenguajes:** Python, SQL, AI.
+
+**Bibliotecas y frameworks:** pandas, NumPy, scikit-learn, LightGBM, spaCy, TensorFlow.
+
+**Áreas de enfoque:** Ciencia de datos, Aprendizaje automático, Procesamiento de lenguaje natural (NLP), Visión por computadora.
+
+**🚀 Proyectos destacados:**
+
+- 🧑‍🦳📷 Estimación de edad con visión por computadora: modelo para verificar la edad de los compradores en supermercados.
+
+- 🤖💬 Análisis de sentimientos con NLP: clasificación de reseñas de películas utilizando embeddings y modelos estadísticos.
+
+- 🚕📈 Predicción de demanda de taxis: modelo de series temporales optimizado para métricas de negocio.
 <!--
 **SucoJavi/SucoJavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
