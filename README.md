@@ -1,4 +1,14 @@
-## 👋 ¡Hola! Soy Javier
+<div id="header" align="center">
+  <img decoding="async" 
+src="https://github.com/user-attachments/assets/7b5ef636-7b0a-45a9-8a9e-5eb3c15ef8f0"
+</div>
+
+
+---
+<div id="header" align="left">
+
+  
+## :man_technologist: Sobre mi: 
 
 Apasionado de la tecnología y disfrutando de una transición laboral a Data Science 
 
